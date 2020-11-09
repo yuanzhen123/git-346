@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [02/Nov/2020:16:36:56 +0800] "GET /auth/ HTTP/1.1" 200 52 http-bio-8081-exec-1 81
+0:0:0:0:0:0:0:1 - - [02/Nov/2020:16:36:56 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Nov/2020:16:37:04 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 200 190 http-bio-8081-exec-4 460
+0:0:0:0:0:0:0:1 - - [02/Nov/2020:17:22:52 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 200 190 http-bio-8081-exec-1 373
